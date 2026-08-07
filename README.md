@@ -1,33 +1,29 @@
-# ai-engineering-roadmap
-learning ai-engineering
+# AI Engineering Roadmap
 
-记录从 Java 后端开发方向转向 AI 应用开发工程师的学习与实践过程。
 
-方向：
+AI Application Engineer Learning Journey
 
-- LLM Application Development
-- RAG System
-- AI Agent
-- AI Workflow
-- AI Engineering Deployment
 
-技术栈：
+## Progress
 
-Backend:
-- Java
-- Spring Boot
-- Python
-- FastAPI
 
-AI:
-- LLM API
-- LangChain
-- LangGraph
-- RAG
-- Embedding
-- Vector Database
+## Day01 Python Environment
 
-Infrastructure:
-- Docker
-- Linux
-- Nginx
+Completed:
+
+- venv
+- pip
+- requests
+- pytest
+
+
+## Roadmap
+
+
+- [x] Day01 Python Environment
+- [ ] Day02 Python HTTP
+- [ ] Day03 FastAPI
+- [ ] Day04 OpenAI API
+- [ ] Day05 LangChain
+- [ ] Day06 RAG
+- [ ] Day07 Agent
