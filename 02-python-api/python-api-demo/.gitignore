@@ -1,0 +1,11 @@
+# 环境变量文件
+.env
+
+# Python虚拟环境
+.venv/
+
+# Python缓存
+__pycache__/
+
+# 编译文件
+*.pyc
