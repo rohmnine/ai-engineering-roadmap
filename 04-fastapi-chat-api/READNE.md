@@ -76,3 +76,37 @@ uvicorn app.main:app --reload
 访问:
 
 http://127.0.0.1:8000/docs
+
+
+## FastAPI Request Model校验问题
+
+
+问题：
+
+发送:
+
+{
+"text":""
+}
+
+
+返回:
+
+422 Field required
+
+
+原因：
+
+Pydantic Request Model定义了必填字段。
+
+
+解决：
+
+给非核心字段设置默认值:
+
+user:str | None=None
+
+time:str | None=None
+
+
+核心字段(text)由业务逻辑处理。
