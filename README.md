@@ -21,6 +21,7 @@ Completed:
 
 
 30天路线总览
+
 阶段	时间	目标
 阶段1	Day1-5	Python + FastAPI工程基础
 阶段2	Day6-10	LLM API + Prompt工程
@@ -28,14 +29,12 @@ Completed:
 阶段4	Day16-22	RAG知识库开发
 阶段5	Day23-26	AI Agent开发
 阶段6	Day27-30	工程化部署 + 求职准备
+
 第一阶段：Python + FastAPI基础
-Day 1：Python工程环境
-学习
 
+Day 1：Python工程环境学习
 目标：
-
 掌握：
-
 venv
 pip
 poetry
@@ -75,6 +74,7 @@ pip freeze > requirements.txt
 GitHub：
 
 python-env-demo
+
 Day 2：Python API调用
 
 学习：
@@ -122,6 +122,7 @@ JSON解析
 产出：
 
 python-api-demo
+
 Day 3：FastAPI入门
 
 学习：
@@ -151,6 +152,7 @@ GET /hello
 产出：
 
 fastapi-demo
+
 Day 4：FastAPI REST接口
 
 学习：
@@ -182,6 +184,7 @@ POST /chat
 产出：
 
 chat-api-demo
+
 Day 5：FastAPI工程结构
 
 学习：
@@ -213,7 +216,9 @@ app
 ├── service
 ├── config
 └── main.py
+
 第二阶段：LLM开发基础
+
 Day 6：认识LLM API
 
 学习：
@@ -252,6 +257,7 @@ LLM API
 
 
 回答
+
 Day 7：封装LLM Service
 
 代码：
