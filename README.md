@@ -31,6 +31,7 @@ Completed:
 阶段6	Day27-30	工程化部署 + 求职准备
 
 第一阶段：Python + FastAPI基础
+
 Day 1：Python工程环境学习
 目标：
 掌握：
@@ -73,6 +74,7 @@ pip freeze > requirements.txt
 GitHub：
 
 python-env-demo
+
 Day 2：Python API调用
 
 学习：
@@ -120,6 +122,7 @@ JSON解析
 产出：
 
 python-api-demo
+
 Day 3：FastAPI入门
 
 学习：
@@ -149,6 +152,7 @@ GET /hello
 产出：
 
 fastapi-demo
+
 Day 4：FastAPI REST接口
 
 学习：
